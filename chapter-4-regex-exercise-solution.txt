@@ -1,0 +1,10 @@
+Answer 1: 
+
+For directions: 'Directions:(.*)Refill' 
+
+Note:In regex101.com you need to select "global","multi line","single line" options so that on right hand side of the regular expression edit box you see /gms
+
+
+For refill: 'Refill:(.*)times'
+
+Answer 2: https:\/\/twitter.com\/([a-zA-Z0-9_]+)
