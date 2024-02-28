@@ -1,5 +1,5 @@
-# Project-Medical-Data-Extraction
-Medical Data Extraction using Python.
+# Medical Data Extraction [Python]
+
 1. pdf2image Library- Leveraging the pdf2image library, the project facilitates the conversion of PDF documents into a structured list of images. This initial step ensures a more accessible and image-oriented format for subsequent processing.
 
 2. OpenCV for Image Processing- OpenCV is employed for fundamental image processing tasks, enhancing the clarity and quality of images. This step plays a crucial role in preparing the images for accurate text extraction.
@@ -7,4 +7,5 @@ Medical Data Extraction using Python.
 3. Pytesseract Library:- The project integrates the Pytesseract library, a powerful Optical Character Recognition (OCR) tool, to extract text from the pre-processed images. Pytesseract is adept at recognizing text in various fonts and languages, making it suitable for diverse medical document sources.
 
 4. Regular Expressions (Regex):- Employing regular expressions, the project finely tunes the extracted text, isolating and extracting specific information or fields from text blocks. Regex serves as a flexible and robust tool for identifying and capturing patterns within the text data.1. pdf2image Library- Leveraging the pdf2image library, the project facilitates the conversion of PDF documents into a structured list of images. This initial step ensures a more accessible and image-oriented format for subsequent processing. 2. OpenCV for Image Processing- OpenCV is employed for fundamental image processing tasks, enhancing the clarity and quality of images. This step plays a crucial role in preparing the images for accurate text extraction. 3. Pytesseract Library:- The project integrates the Pytesseract library, a powerful Optical Character Recognition (OCR) tool, to extract text from the pre-processed images. Pytesseract is adept at recognizing text in various fonts and languages, making it suitable for diverse medical document sources. 4. Regular Expressions (Regex):- Employing regular expressions, the project finely tunes the extracted text, isolating and extracting specific information or fields from text blocks. Regex serves as a flexible and robust tool for identifying and capturing patterns within the text data.
+
 Skills: Python (Programming Language) · Computer Vision · OpenCV · Machine Learning
